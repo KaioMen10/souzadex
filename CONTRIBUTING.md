@@ -22,7 +22,7 @@ O arquivo `souzas.js` é gerado automaticamente por um workflow do GitHub Action
 3. Dê ao arquivo o nome que será o título na galeria. Exemplos:
    - `Astronauta.png` aparece como "Astronauta"
    - `Souza-Samurai.jpg` aparece como "Souza Samurai" (hífens e underscores viram espaço)
-4. Adicione o arquivo à pasta `assets/images/` do seu fork. Se preferir, use a própria interface do GitHub: [enviar imagem](https://github.com/matheusaudibert/souzadex/upload/main/assets/images), que cria o fork e o PR automaticamente.
+4. Adicione o arquivo à pasta `assets/images/` do seu fork.
 5. Abra o Pull Request com o título `Souza: <Nome do Souza>` e preencha o checklist do template.
 6. Aguarde a moderação. Depois do merge, o card aparece na galeria automaticamente.
 
